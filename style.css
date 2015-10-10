@@ -1,0 +1,18 @@
+body {
+  background-color: #44465D;
+  overflow: hidden;
+}
+
+.content {
+  width: 650px;
+  height: 100%;
+  margin: 200px auto;
+}
+
+.content > * {
+  float: left;
+  margin: 30px 5px;
+  width: 100px;
+  height: 100px;
+  background-color: #71727B;
+}
